@@ -1,0 +1,44 @@
+.landing{
+ background-image: url("./img/landing.jpg");
+   background-repeat:no-repeat;
+   background-size: 100%;
+   object-fit: cover;
+  
+}
+.container-fluid {
+    width: 100%;
+    height: 100%;
+    padding-top:10% ;
+    padding-bottom:20% ;
+    padding-right:-1px;
+    padding-left:0px;
+    margin-right: auto;
+    margin-left: auto;
+}
+#about{
+    z-index: 1;
+    color:white;
+    padding-top: 5%;
+}
+iframe{
+    margin-top: 8em;
+    z-index:-1;
+    position: relative;
+}
+.contact{
+    background: linear-gradient(90deg, rgba(255,175,0,1) 0%, rgba(255,154,0,1) 35%, rgba(255,55,0,1) 100%);
+}
+
+a:hover{color:#ff5303f6;}
+body{
+    font-family: 'Poppins';
+}
+.question{
+    padding-top: 5%;
+}
+h1,h3{
+    color: #e3edfa;
+}
+.red{
+    color: orangered;
+}
