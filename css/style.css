@@ -1,5 +1,5 @@
 .landing{
- background-image: url("./img/landing.jpg");
+ background-image: url("../image/landing.jpg");
    background-repeat:no-repeat;
    background-size: 100%;
    object-fit: cover;
